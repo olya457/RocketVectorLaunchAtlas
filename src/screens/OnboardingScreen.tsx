@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import {
   Dimensions,
   Image,
+  Platform,
   StyleSheet,
   Text,
   TouchableOpacity,
@@ -115,6 +116,7 @@ const styles = StyleSheet.create({
   progressRow: {
     flexDirection: 'row',
     justifyContent: 'center',
+    marginTop: Platform.OS === 'android' ? 20 : 0,
     marginBottom: 8,
   },
   progressDash: {

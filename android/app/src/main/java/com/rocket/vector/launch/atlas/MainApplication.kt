@@ -1,4 +1,4 @@
-package com.rocketvectorlaunchatlas
+package com.rocket.vector.launch.atlas
 
 import android.app.Application
 import com.facebook.react.PackageList
