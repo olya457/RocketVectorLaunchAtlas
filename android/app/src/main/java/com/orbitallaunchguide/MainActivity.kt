@@ -1,4 +1,4 @@
-package com.rocket.vector.launch.atlas
+package com.orbitallaunchguide
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

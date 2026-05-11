@@ -1,4 +1,4 @@
-package com.rocket.vector.launch.atlas
+package com.orbitallaunchguide
 
 import android.app.Application
 import com.facebook.react.PackageList
